@@ -8,7 +8,14 @@ You may use it e.g. to check how much money you will get if you want to exchange
 In order to use the application, please type in the first field ("Kwota w PLN*) the amount of money in PLN.
 Then choose one from two available currencies in the second field ("Waluta"). To receive the result click "Przelicz!" 
 
-![gif](images/currencyconverter.gif)
+
+
+
+![currencyconverter](images/currencyconverter.gif)
+
+
+
+
 
 
 ## Languages and technologies
