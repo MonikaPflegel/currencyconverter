@@ -9,6 +9,6 @@ In order to use the application, please type in the first field ("Kwota w PLN*) 
 Then choose one from two available currencies in the second field ("Waluta"). To receive the result click "Przelicz!" (demonstration below).
 
 ## Languages and technologies
--HTML 
--CSS (BEM, Flex box)
--JavaScript (ES6+)
+- HTML 
+- CSS (BEM, Flex box)
+- JavaScript (ES6+)
