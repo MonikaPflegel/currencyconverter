@@ -1,3 +1,7 @@
+{
+  const welcome = () => {console.log("Witam wszystkich!");} 
+welcome ();
+
 let amountElement = document.querySelector(".js-amount");
 let currencyElement = document.querySelector(".js-currency");
 let formElement = document.querySelector(".js-form");
@@ -20,3 +24,4 @@ formElement.addEventListener("submit", (event) => {
 
  resultElement.innerText = result.toFixed(2);
 });
+}
